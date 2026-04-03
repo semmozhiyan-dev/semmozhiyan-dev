@@ -25,7 +25,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Backend-0891b2?style=for-the-badge&logo=target" alt="Focus" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-India%20🇮🇳-0891b2?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-India-0891b2?style=for-the-badge" alt="Location" />
   <br/><br/>
 </div>
 
@@ -37,7 +37,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
 Name       : Semmozhiyan N S

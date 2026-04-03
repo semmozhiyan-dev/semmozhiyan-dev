@@ -3,10 +3,10 @@ name: GitHub Metrics
 on:
   schedule:
     - cron: "0 * * * *"     # Runs every hour
-  workflow_dispatch:       # Allows manual run
+  workflow_dispatch:         # Allows manual run
   push:
     branches:
-      - main               # Regenerate on every push to main
+      - main                 # Regenerate on every push to main
 
 jobs:
   github-metrics:
@@ -29,6 +29,7 @@ jobs:
           config_timezone: Asia/Kolkata
           config_display: large
           config_octicon: yes
+          config_padding: 10%
 
           # 🗓 Contribution calendar
           plugin_isocalendar: yes
@@ -41,6 +42,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
+          plugin_languages_indepth: yes
 
           # 📈 Recent activity
           plugin_activity: yes
@@ -67,6 +69,7 @@ jobs:
           # 🏷 Topics worked on
           plugin_topics: yes
           plugin_topics_limit: 15
+          plugin_topics_mode: icons
 
           # ⭐ Starred repositories
           plugin_stars: yes
@@ -80,7 +83,13 @@ jobs:
           plugin_people: yes
           plugin_people_types: followers, contributors
           plugin_people_limit: 24
+          plugin_people_identicons: yes
 
           # 📅 Commit calendar
           plugin_calendar: yes
           plugin_calendar_limit: 1
+
+          # 🏅 Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_limit: 6

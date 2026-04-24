@@ -119,7 +119,7 @@ class TestTechStack:
         assert tech in readme_text, f"Tech badge for '{tech}' must be present"
 
     def test_shields_io_badges_present(self, readme_text):
-        assert "img.shields.io" in readme_text, \
+        assert "https://img.shields.io" in readme_text, \
             "shields.io badge URLs must be present"
 
     def test_for_the_badge_style_used(self, readme_text):
@@ -137,7 +137,7 @@ class TestGitHubStats:
             "github-readme-stats widget must be embedded"
 
     def test_streak_stats_present(self, readme_text):
-        assert "github-readme-streak-stats.herokuapp.com" in readme_text or \
+        assert "https://github-readme-streak-stats.herokuapp.com" in readme_text or \
                "streak-stats" in readme_text, \
             "GitHub streak stats widget must be embedded"
 
@@ -172,7 +172,7 @@ class TestAnimations:
             "Animated banner via capsule-render must be present"
 
     def test_typing_animation_present(self, readme_text):
-        assert "readme-typing-svg.demolab.com" in readme_text, \
+        assert "https://readme-typing-svg.demolab.com" in readme_text, \
             "Typing animation SVG must be present"
 
     def test_snake_animation_referenced(self, readme_text):

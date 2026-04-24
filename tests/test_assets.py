@@ -104,7 +104,12 @@ class TestRepositoryRootFiles:
             ".github/workflows directory must exist"
 
     def test_no_sensitive_files_committed(self):
-        sensitive_patterns = [".env", "*.pem", "*.key", "secrets.yml", "secrets.yaml"]
+        sensitive_patterns = [
+            ".env", "*.pem", "*.key", "*.p12", "*.pfx",
+            "id_rsa", "id_dsa", "*.gpg",
+            "secrets.yml", "secrets.yaml",
+            ".npmrc", "oauth_token",
+        ]
         for pattern in sensitive_patterns:
             matches = list(REPO_ROOT.rglob(pattern))
             # Exclude .git directory

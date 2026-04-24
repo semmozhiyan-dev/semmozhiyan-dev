@@ -74,7 +74,7 @@ class TestYamlValidity:
 
 REQUIRED_TOP_LEVEL_KEYS = [
     pytest.param("name", id="name"),
-    pytest.param(True, id="on"),   # PyYAML parses `on:` as boolean True
+    pytest.param(True, id="on"),   # YAML 1.1 (used by GitHub Actions) parses unquoted `on` as boolean True
     pytest.param("jobs", id="jobs"),
 ]
 

@@ -5,39 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Semmozhiyan%20N%20S&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Automation%20Enthusiast&descAlignY=58&descSize=20&stroke=ffffff&strokeWidth=1" width="100%" />
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                        TYPING ANIMATION                          -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <a href="https://github.com/semmozhiyan-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=🚀+Building+Reliable+%26+Scalable+Systems;⚙️+Automating+Workflows+%26+CI%2FCD+Pipelines;☸️+Mastering+Kubernetes+%26+Cloud+Infrastructure;🐳+Containerizing+Applications+with+Docker;🔐+Integrating+Security+into+DevOps+Pipelines;💡+Turning+Ideas+into+Production-Ready+Apps" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                         PROFILE BADGES                           -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=semmozhiyan-dev&label=Profile+Views&color=0891b2&style=for-the-badge&logo=eye" alt="Profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/semmozhiyan-dev?label=Followers&style=for-the-badge&color=0891b2&logo=github" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Backend-0891b2?style=for-the-badge&logo=target" alt="Focus" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-India-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/Experience-Fresher%20%7C%20Passionate%20Builder-764abc?style=for-the-badge&logo=lightning&logoColor=white" alt="Experience" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Science-0891b2?style=for-the-badge&logo=mortarboard&logoColor=white" alt="Education" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Timezone-IST%20UTC%2B5%3A30-764abc?style=for-the-badge&logo=clock&logoColor=white" alt="Timezone" />
-  <br/><br/>
-</div>
-
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
@@ -180,25 +147,6 @@ Fun Fact   : I turn manual processes into
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                    REAL-TIME GITHUB STATS                        -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;Real-Time GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=semmozhiyan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&rank_icon=github&show=reviews,discussions_started,prs_merged" height="185" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semmozhiyan-dev&layout=compact&theme=tokyonight&langs_count=8&count_private=true&border_radius=12" height="185" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semmozhiyan-dev&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&fire=00d9ff&ring=0891b2&currStreakLabel=00d9ff" alt="GitHub Streak" />
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                       TROPHIES                                   -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
@@ -206,56 +154,6 @@ Fun Fact   : I turn manual processes into
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=semmozhiyan-dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=2&column=4" alt="Trophies" />
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION ACTIVITY GRAPH                     -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 📈 &nbsp;Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=semmozhiyan-dev&theme=tokyo-night&hide_border=true&area=true&area_color=0891b2&line=00d9ff&point=ffffff" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     PROFILE SUMMARY CARDS                        -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 📋 &nbsp;GitHub Performance Dashboard
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=semmozhiyan-dev&theme=tokyonight" width="100%" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=semmozhiyan-dev&theme=tokyonight" alt="Repos per Language" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=semmozhiyan-dev&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=semmozhiyan-dev&theme=tokyonight" alt="Stats" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=semmozhiyan-dev&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                  ADVANCED METRICS DASHBOARD                      -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;GitHub Analytics Dashboard
-
-<div align="center">
-
-![Metrics](https://raw.githubusercontent.com/semmozhiyan-dev/semmozhiyan-dev/main/github-metrics.svg)
-
 </div>
 
 ---

@@ -321,7 +321,7 @@ Fun Fact   : I turn manual processes into
 |:---|:---|:---:|
 | 🐳 Docker Foundations | Docker / Self-paced | ✅ Completed |
 | ☸️ Kubernetes Fundamentals | CNCF / Self-paced | 🔄 In Progress |
-| 🏗️ Terraform Associate (CKA) | HashiCorp | 🔄 In Progress |
+| 🏗️ Terraform Associate | HashiCorp | 🔄 In Progress |
 | 🐧 Linux System Administration | Red Hat / Self-paced | ✅ Completed |
 | ⚙️ GitHub Actions Workflow Automation | GitHub Learning Lab | ✅ Completed |
 | 🔐 DevSecOps Foundation | Self-paced Research | 🔄 In Progress |

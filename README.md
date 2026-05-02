@@ -2,7 +2,7 @@
 <!--                        ANIMATED BANNER                          -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Semmozhiyan%20N%20S&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Backend%20Developer%20%7C%20Automation%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Semmozhiyan%20N%20S&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Automation%20Enthusiast&descAlignY=58&descSize=20&stroke=ffffff&strokeWidth=1" width="100%" />
 </div>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
@@ -10,7 +10,7 @@
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <div align="center">
   <a href="https://github.com/semmozhiyan-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=🚀+Building+Reliable+%26+Scalable+Systems;⚙️+Automating+Workflows+%26+CI%2FCD+Pipelines;☸️+Exploring+Kubernetes+%26+Cloud+Infrastructure;🐳+Containerizing+Applications+with+Docker;💡+Turning+Ideas+into+Production-Ready+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=🚀+Building+Reliable+%26+Scalable+Systems;⚙️+Automating+Workflows+%26+CI%2FCD+Pipelines;☸️+Mastering+Kubernetes+%26+Cloud+Infrastructure;🐳+Containerizing+Applications+with+Docker;🔐+Integrating+Security+into+DevOps+Pipelines;💡+Turning+Ideas+into+Production-Ready+Apps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,9 +23,18 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/semmozhiyan-dev?label=Followers&style=for-the-badge&color=0891b2&logo=github" alt="Followers" />
   &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Backend-0891b2?style=for-the-badge&logo=target" alt="Focus" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-India-0891b2?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-India-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/Experience-Fresher%20%7C%20Passionate%20Builder-764abc?style=for-the-badge&logo=lightning&logoColor=white" alt="Experience" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Science-0891b2?style=for-the-badge&logo=mortarboard&logoColor=white" alt="Education" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Timezone-IST%20UTC%2B5%3A30-764abc?style=for-the-badge&logo=clock&logoColor=white" alt="Timezone" />
   <br/><br/>
 </div>
 
@@ -37,26 +46,38 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
+╔══════════════════════════════════════════════════╗
+║              DEVELOPER  PROFILE                  ║
+╚══════════════════════════════════════════════════╝
+
 Name       : Semmozhiyan N S
 Role       : Aspiring DevOps Engineer & Backend Developer
 Education  : B.E. Computer Science Engineering
 Location   : India 🇮🇳
 Timezone   : Asia/Kolkata (IST UTC+5:30)
 
+Core Skills:
+  ├─ Cloud & DevOps   → Docker · K8s · Terraform · GitHub Actions
+  ├─ Backend Dev      → Python · Java · Flask · Django · Node.js
+  ├─ Databases        → MySQL · PostgreSQL · SQLite
+  └─ Monitoring       → Prometheus · Grafana
+
 Interests  :
-  - Cloud Infrastructure & DevOps
-  - Backend Systems Architecture
-  - CI/CD Pipeline Automation
-  - Container Orchestration (K8s)
+  ● Cloud Infrastructure & DevOps Architecture
+  ● Backend Systems & API Design
+  ● CI/CD Pipeline Automation & GitOps
+  ● Container Orchestration (Kubernetes)
+  ● DevSecOps — Security-first mindset
 
 Currently  :
-  - 🔭 Building production-ready projects
-  - 📖 Deep-diving into Kubernetes & Terraform
-  - 🤝 Open to collaborate on DevOps projects
-  - ⚡ Automating everything I can!
+  🔭 Building production-ready projects end-to-end
+  📖 Deep-diving into Kubernetes & Terraform
+  🤝 Open to collaborate on DevOps / Backend projects
+  🔐 Exploring DevSecOps best practices
+  ⚡ Automating everything I can!
 
 Fun Fact   : I turn manual processes into
              automated pipelines for fun 😄
@@ -91,6 +112,7 @@ Fun Fact   : I turn manual processes into
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
 ### ☁️ &nbsp;DevOps, Cloud & Infrastructure
@@ -101,8 +123,10 @@ Fun Fact   : I turn manual processes into
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
 ### 🗄️ &nbsp;Databases
@@ -111,6 +135,7 @@ Fun Fact   : I turn manual processes into
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ### 🔧 &nbsp;Tools & Platforms
@@ -122,8 +147,33 @@ Fun Fact   : I turn manual processes into
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 </p>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    SKILLS PROFICIENCY                            -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## 💡 &nbsp;Skills & Expertise
+
+<div align="center">
+
+| Domain | Skills | Level |
+|:---|:---|:---:|
+| 🐳 **Containerization** | Docker, Docker Compose, Multi-stage builds | ⭐⭐⭐⭐⭐ |
+| ☸️ **Orchestration** | Kubernetes, Helm, Service Mesh concepts | ⭐⭐⭐⭐☆ |
+| ⚙️ **CI/CD** | GitHub Actions, Pipeline Design, GitOps | ⭐⭐⭐⭐⭐ |
+| 🏗️ **IaC** | Terraform, Ansible, Cloud Provisioning | ⭐⭐⭐⭐☆ |
+| 🐍 **Python** | Flask, Django, Scripting, Automation | ⭐⭐⭐⭐⭐ |
+| ☕ **Java** | OOP, Spring Boot, REST APIs | ⭐⭐⭐⭐☆ |
+| 📊 **Monitoring** | Prometheus, Grafana, Alerting | ⭐⭐⭐⭐☆ |
+| 🔐 **DevSecOps** | SAST/DAST, Secret Scanning, SonarQube | ⭐⭐⭐☆☆ |
+| 🗄️ **Databases** | MySQL, PostgreSQL, SQLite, Redis | ⭐⭐⭐⭐☆ |
+| 🐧 **Linux** | Shell Scripting, Sysadmin, Process Mgmt | ⭐⭐⭐⭐⭐ |
 
 </div>
 
@@ -136,14 +186,14 @@ Fun Fact   : I turn manual processes into
 ## 📊 &nbsp;Real-Time GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=semmozhiyan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&rank_icon=github" height="185" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=semmozhiyan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&rank_icon=github&show=reviews,discussions_started,prs_merged" height="185" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semmozhiyan-dev&layout=compact&theme=tokyonight&langs_count=8&count_private=true&border_radius=12" height="185" alt="Top Languages" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semmozhiyan-dev&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semmozhiyan-dev&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&fire=00d9ff&ring=0891b2&currStreakLabel=00d9ff" alt="GitHub Streak" />
 </div>
 
 ---
@@ -252,7 +302,29 @@ Fun Fact   : I turn manual processes into
 |:---|:---|
 | Smart travel planning & booking system with real-time APIs | Personal portfolio showcasing projects, skills & experience |
 | `JavaScript` `APIs` `Database Systems` | `HTML` `CSS` `JavaScript` |
+| ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square) |
 | [![Repo](https://img.shields.io/badge/View%20Repo-0891b2?style=for-the-badge&logo=github)](https://github.com/semmozhiyan-dev/wanderlite-travel-and-tourism) | [![Repo](https://img.shields.io/badge/View%20Repo-0891b2?style=for-the-badge&logo=github)](https://github.com/semmozhiyan-dev/semmozhi-portfolio) |
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                    CERTIFICATIONS & ACHIEVEMENTS                  -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+## 🏅 &nbsp;Certifications & Achievements
+
+<div align="center">
+
+| 🎓 Certification / Achievement | 🏢 Issuer | 📅 Status |
+|:---|:---|:---:|
+| 🐳 Docker Foundations | Docker / Self-paced | ✅ Completed |
+| ☸️ Kubernetes Fundamentals | CNCF / Self-paced | 🔄 In Progress |
+| 🏗️ Terraform Associate (CKA) | HashiCorp | 🔄 In Progress |
+| 🐧 Linux System Administration | Red Hat / Self-paced | ✅ Completed |
+| ⚙️ GitHub Actions Workflow Automation | GitHub Learning Lab | ✅ Completed |
+| 🔐 DevSecOps Foundation | Self-paced Research | 🔄 In Progress |
 
 </div>
 
@@ -266,14 +338,16 @@ Fun Fact   : I turn manual processes into
 
 <div align="center">
 
-| Category | Tools & Technologies |
-|:---|:---|
-| 🔧 **CI/CD Pipelines** | GitHub Actions, automated build & deploy workflows |
-| 🐳 **Containerization** | Docker, Docker Compose, multi-stage builds |
-| ☸️ **Orchestration** | Kubernetes deployments, services & ingress |
-| 📊 **Monitoring** | Prometheus metrics collection + Grafana dashboards |
-| 🏗️ **IaC** | Terraform for cloud infrastructure provisioning |
-| 🐧 **Linux** | Shell scripting, system administration, process management |
+| Category | Tools & Technologies | Level |
+|:---|:---|:---:|
+| 🔧 **CI/CD Pipelines** | GitHub Actions, automated build & deploy workflows | Advanced |
+| 🐳 **Containerization** | Docker, Docker Compose, multi-stage builds | Advanced |
+| ☸️ **Orchestration** | Kubernetes deployments, services & ingress | Intermediate |
+| 📊 **Monitoring** | Prometheus metrics collection + Grafana dashboards | Intermediate |
+| 🏗️ **IaC** | Terraform for cloud infrastructure provisioning | Intermediate |
+| 🔧 **Config Mgmt** | Ansible for server configuration automation | Learning |
+| 🐧 **Linux** | Shell scripting, system administration, process management | Advanced |
+| 🔐 **Security** | SAST scanning, secret detection, policy enforcement | Learning |
 
 </div>
 
@@ -288,11 +362,16 @@ Fun Fact   : I turn manual processes into
 <div align="center">
 
 ```
-📚 Kubernetes Networking & Service Mesh (Istio)
-☁️ Infrastructure as Code — Terraform & Ansible
-🚀 Advanced Cloud Deployment Strategies (Blue/Green, Canary)
-🐧 Advanced Linux Internals for DevOps
-🔐 DevSecOps — Integrating Security into Pipelines
+╔══════════════════════════════════════════════════════════════╗
+║                  2025 LEARNING ROADMAP                       ║
+╠══════════════════════════════════════════════════════════════╣
+║  ☸️  Kubernetes Networking & Service Mesh (Istio)   [▓▓▓▓░] ║
+║  🏗️  Infrastructure as Code — Terraform & Ansible   [▓▓▓▓░] ║
+║  🚀  Advanced Deployment Strategies (Blue/Green)    [▓▓▓░░] ║
+║  🐧  Advanced Linux Internals for DevOps            [▓▓▓▓░] ║
+║  🔐  DevSecOps — Security-first Pipeline Design     [▓▓▓░░] ║
+║  ☁️  Cloud Platforms (AWS / GCP fundamentals)       [▓▓░░░] ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -326,6 +405,15 @@ Fun Fact   : I turn manual processes into
 <br/>
 
 <div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║   💼 Open to: DevOps Roles · Backend Roles · Internships      ║
+║   🤝 Available for: Collaboration · Open Source · Freelance   ║
+║   📬 Response time: Within 24 hours                           ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
   <i>💬 Feel free to reach out — I'm always open to discussing DevOps, Backend Dev, or exciting projects!</i>
 </div>
 

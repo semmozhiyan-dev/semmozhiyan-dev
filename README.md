@@ -147,18 +147,6 @@ Fun Fact   : I turn manual processes into
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                       TROPHIES                                   -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=semmozhiyan-dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=2&column=4" alt="Trophies" />
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                    CONTRIBUTION SNAKE                            -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 

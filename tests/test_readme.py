@@ -41,7 +41,6 @@ EXPECTED_SECTIONS = [
     "About Me",
     "Tech Stack",
     "GitHub Stats",
-    "GitHub Trophies",
     "Contribution Activity",
     "GitHub Performance Dashboard",
     "GitHub Analytics Dashboard",
@@ -141,9 +140,6 @@ class TestGitHubStats:
                "streak-stats" in readme_text, \
             "GitHub streak stats widget must be embedded"
 
-    def test_trophies_present(self, readme_text):
-        assert "github-profile-trophy.vercel.app" in readme_text, \
-            "GitHub trophies widget must be embedded"
 
     def test_activity_graph_present(self, readme_text):
         assert "github-readme-activity-graph.vercel.app" in readme_text, \
@@ -328,7 +324,6 @@ class TestHtmlStructure:
             "GitHub Stats",
             "Top Languages",
             "GitHub Streak",
-            "Trophies",
             "Activity Graph",
             "Profile Details",
             "Typing SVG",

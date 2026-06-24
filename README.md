@@ -1,285 +1,261 @@
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                        ANIMATED BANNER                          -->
+<!--        🌸 CHERRY BLOSSOM NATURE THEME — SEMMOZHIYAN N S          -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Semmozhiyan%20N%20S&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Automation%20Enthusiast&descAlignY=58&descSize=20&stroke=ffffff&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8&height=240&section=header&text=Semmozhiyan%20N%20S&fontSize=58&fontColor=fff5f8&animation=twinkling&fontAlignY=38&desc=🌸%20DevOps%20Engineer%20%C2%B7%20Backend%20Developer%20%C2%B7%20Automation%20Enthusiast&descAlignY=60&descSize=18&stroke=f4a8c0&strokeWidth=1" width="100%" />
 </div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME                                -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
-
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```yaml
-╔══════════════════════════════════════════════════╗
-║              DEVELOPER  PROFILE                  ║
-╚══════════════════════════════════════════════════╝
-
-Name       : Semmozhiyan N S
-Role       : Aspiring DevOps Engineer & Backend Developer
-Education  : B.E. Computer Science Engineering
-Location   : India 🇮🇳
-Timezone   : Asia/Kolkata (IST UTC+5:30)
-
-Core Skills:
-  ├─ Cloud & DevOps   → Docker · K8s · Terraform · GitHub Actions
-  ├─ Backend Dev      → Python · Java · Flask · Django · Node.js
-  ├─ Databases        → MySQL · PostgreSQL · SQLite
-  └─ Monitoring       → Prometheus · Grafana
-
-Interests  :
-  ● Cloud Infrastructure & DevOps Architecture
-  ● Backend Systems & API Design
-  ● CI/CD Pipeline Automation & GitOps
-  ● Container Orchestration (Kubernetes)
-  ● DevSecOps — Security-first mindset
-
-Currently  :
-  🔭 Building production-ready projects end-to-end
-  📖 Deep-diving into Kubernetes & Terraform
-  🤝 Open to collaborate on DevOps / Backend projects
-  🔐 Exploring DevSecOps best practices
-  ⚡ Automating everything I can!
-
-Fun Fact   : I turn manual processes into
-             automated pipelines for fun 😄
-```
-
-<br clear="right"/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                         TECH STACK                               -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 🛠️ &nbsp;Tech Stack & Tools
-
 <div align="center">
-
-<!-- ── Visual Icon Strip ─────────────────────────────────────────── -->
-<img src="https://skillicons.dev/icons?i=java,python,c,bash,flask,django,nodejs,spring,docker,kubernetes,linux,githubactions,terraform,ansible,prometheus,grafana,nginx,mysql,postgres,sqlite,redis,git,vscode,postman,figma&perline=13" alt="Technology stack icons including Java, Python, C, Bash, Flask, Django, Node.js, Spring, Docker, Kubernetes, Linux, GitHub Actions, Terraform, Ansible, Prometheus, Grafana, Nginx, MySQL, PostgreSQL, SQLite, Redis, Git, VS Code, Postman and Figma" />
-
+```
+                    🌸  R O O T S  &  B L O S S O M S  🌸
+      ┌──────────────────────────────────────────────────────────────┐
+      │  Every pipeline is a river.   Every container, a seed.      │
+      │  Infrastructure breathes — I just tend the forest.          │
+      └──────────────────────────────────────────────────────────────┘
+```
+</div>
+---
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                  🌱 THE GROVE — ABOUT ME                         -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+🌱  The Grove — Field Notes
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+```yaml
+╔══════════════════════════════════════════════════════════════╗
+║                 🍃  FIELD  NOTES                             ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  Name       : Semmozhiyan N S                                ║
+║  Species    : Aspiring DevOps Engineer & Backend Developer   ║
+║  Habitat    : India 🇮🇳  ·  Asia/Kolkata (IST UTC+5:30)      ║
+║  Root Depth : B.E. Computer Science Engineering              ║
+║                                                              ║
+║  🌸 Canopy (Core Strengths):                                 ║
+║    ├─ 🐳 Containers    →  The bark that protects             ║
+║    ├─ ☸️  Kubernetes    →  The branches that scale            ║
+║    ├─ ⚙️  CI/CD         →  The sap that flows daily          ║
+║    ├─ 🏗️  Terraform     →  The roots underground             ║
+║    └─ 📊 Grafana       →  The rings that tell time           ║
+║                                                              ║
+║  🌿 Understory (Also Growing):                               ║
+║    Python · Java · Node.js · Flask · Spring Boot             ║
+║    PostgreSQL · MySQL · Redis · Linux                        ║
+║                                                              ║
+║  🌦️  Current Season:                                         ║
+║    🔭  Tending production-ready projects end-to-end          ║
+║    📖  Deep-diving into Kubernetes & Terraform               ║
+║    🤝  Open to collaborate on DevOps / Backend projects      ║
+║    🔐  Growing a DevSecOps mindset                           ║
+║    ⚡  Automating the forest so it tends itself              ║
+║                                                              ║
+║  Fun Fact   : I turn manual toil into self-healing           ║
+║               ecosystems — pipelines that breathe 🌸         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+<br clear="right"/>
+---
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                 🌸 THE CANOPY — TECH STACK                       -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+🌸  The Canopy — Tech Ecosystem
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,bash,flask,django,nodejs,spring,docker,kubernetes,linux,githubactions,terraform,ansible,prometheus,grafana,nginx,mysql,postgres,sqlite,redis,git,vscode,postman,figma&perline=13" alt="Tech Stack Icons" />
 <br/><br/>
-
-<!-- ── Detailed Category Cards ───────────────────────────────────── -->
 <table>
   <tr>
-    <!-- Languages Card -->
-    <td align="center" valign="top" width="34%">
-      <img src="https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20Languages-007ACC?style=flat-square&labelColor=007ACC&color=0d1117&logoColor=white" alt="Languages category" /><br/><br/>
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><br/>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /><br/>
-      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /><br/>
-      <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /><br/>
-      <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-    </td>
-    <!-- Backend & Frameworks Card -->
     <td align="center" valign="top" width="33%">
-      <img src="https://img.shields.io/badge/-%F0%9F%A7%A9%20Backend%20%26%20Frameworks-6DB33F?style=flat-square&labelColor=6DB33F&color=0d1117&logoColor=white" alt="Backend and Frameworks category" /><br/><br/>
-      <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /><br/>
-      <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" /><br/>
-      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /><br/>
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" /><br/>
-      <img src="https://img.shields.io/badge/REST%20API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+      <br/>
+      <b>🌾 Roots — Languages</b><br/>
+      <sub><i>The soil everything grows from</i></sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><br/>
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     </td>
-    <!-- Databases Card -->
     <td align="center" valign="top" width="33%">
-      <img src="https://img.shields.io/badge/-%F0%9F%97%84%EF%B8%8F%20Databases-316192?style=flat-square&labelColor=316192&color=0d1117&logoColor=white" alt="Databases category" /><br/><br/>
-      <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br/>
-      <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /><br/>
-      <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+      <br/>
+      <b>🌿 Trunk — Backend & Frameworks</b><br/>
+      <sub><i>Load-bearing, sturdy, essential</i></sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/REST%20API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <b>💧 Water Table — Databases</b><br/>
+      <sub><i>Deep, persistent, life-giving</i></sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <!-- DevOps, Cloud & Infrastructure — full-width -->
     <td align="center" valign="top" colspan="3">
-      <img src="https://img.shields.io/badge/-%E2%98%81%EF%B8%8F%20DevOps%2C%20Cloud%20%26%20Infrastructure-2671E5?style=flat-square&labelColor=2671E5&color=0d1117&logoColor=white" alt="DevOps, Cloud and Infrastructure category" /><br/><br/>
-      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-      <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-      <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+      <br/>
+      <b>☁️ The Sky — DevOps, Cloud & Infrastructure</b><br/>
+      <sub><i>Where everything breathes and scales</i></sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+      <br/><br/>
     </td>
   </tr>
   <tr>
-    <!-- Tools & Platforms — full-width -->
     <td align="center" valign="top" colspan="3">
-      <img src="https://img.shields.io/badge/-%F0%9F%94%A7%20Tools%20%26%20Platforms-F05033?style=flat-square&labelColor=F05033&color=0d1117&logoColor=white" alt="Tools and Platforms category" /><br/><br/>
-      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+      <b>🪨 Terrain — Tools & Platforms</b><br/>
+      <sub><i>The landscape I navigate every day</i></sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+      <br/><br/>
     </td>
   </tr>
 </table>
-
 </div>
-
 ---
-
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                    SKILLS PROFICIENCY                            -->
+<!--              🍃 GROWTH RINGS — SKILLS & DEPTH                    -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 💡 &nbsp;Skills & Expertise
-
+🍃  Growth Rings — Skills & Depth
 <div align="center">
-
-| Domain | Skills | Level |
-|:---|:---|:---:|
-| 🐳 **Containerization** | Docker, Docker Compose, Multi-stage builds | ⭐⭐⭐⭐⭐ |
-| ☸️ **Orchestration** | Kubernetes, Helm, Service Mesh concepts | ⭐⭐⭐⭐☆ |
-| ⚙️ **CI/CD** | GitHub Actions, Pipeline Design, GitOps | ⭐⭐⭐⭐⭐ |
-| 🏗️ **IaC** | Terraform, Ansible, Cloud Provisioning | ⭐⭐⭐⭐☆ |
-| 🐍 **Python** | Flask, Django, Scripting, Automation | ⭐⭐⭐⭐⭐ |
-| ☕ **Java** | OOP, Spring Boot, REST APIs | ⭐⭐⭐⭐☆ |
-| 📊 **Monitoring** | Prometheus, Grafana, Alerting | ⭐⭐⭐⭐☆ |
-| 🔐 **DevSecOps** | SAST/DAST, Secret Scanning, SonarQube | ⭐⭐⭐☆☆ |
-| 🗄️ **Databases** | MySQL, PostgreSQL, SQLite, Redis | ⭐⭐⭐⭐☆ |
-| 🐧 **Linux** | Shell Scripting, Sysadmin, Process Mgmt | ⭐⭐⭐⭐⭐ |
-
+> _Like a cherry blossom tree — each ring a season of mastery, each bloom a skill in full flower_
+ 	Skill Domain	What It Looks Like	Maturity
+🐳	Containerization	Docker, Docker Compose, Multi-stage builds	🌸🌸🌸🌸🌸
+⚙️	CI/CD	GitHub Actions, Pipeline Design, GitOps	🌸🌸🌸🌸🌸
+🐧	Linux	Shell Scripting, Sysadmin, Process Mgmt	🌸🌸🌸🌸🌸
+🐍	Python	Flask, Django, Scripting, Automation	🌸🌸🌸🌸🌸
+☸️	Kubernetes	Helm, Service Mesh concepts	🌸🌸🌸🌸🌿
+📊	Monitoring	Prometheus, Grafana, Alerting	🌸🌸🌸🌸🌿
+🏗️	IaC	Terraform, Ansible, Cloud Provisioning	🌸🌸🌸🌸🌿
+☕	Java	OOP, Spring Boot, REST APIs	🌸🌸🌸🌸🌿
+🗄️	Databases	MySQL, PostgreSQL, SQLite, Redis	🌸🌸🌸🌸🌿
+🔐	DevSecOps	SAST/DAST, Secret Scanning, SonarQube	🌸🌸🌸🌿🌿
+<sub>🌸 = Fully Bloomed  ·  🌿 = Still Budding</sub>
 </div>
-
 ---
-
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                            -->
+<!--                 🐍 CONTRIBUTION SNAKE                            -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;Contribution Snake
-
+🐍  The Forest Trail — Contribution Path
 <div align="center">
-  <picture>
+> _Every commit is a petal falling on the trail_
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/semmozhiyan-dev/semmozhiyan-dev/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/semmozhiyan-dev/semmozhiyan-dev/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/semmozhiyan-dev/semmozhiyan-dev/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
-
 ---
-
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      FEATURED PROJECTS                           -->
+<!--                  📊 GITHUB STATS                                 -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp;Featured Projects
-
+📊  Forest Census — GitHub Stats
 <div align="center">
-
+<img src="https://github-readme-stats.vercel.app/api?username=semmozhiyan-dev&show_icons=true&theme=rose_pine&border_radius=12&include_all_commits=true&count_private=true&hide_border=false" height="180" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semmozhiyan-dev&layout=compact&theme=rose_pine&border_radius=12" height="180" alt="Top Languages"/>
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=semmozhiyan-dev&theme=rose_pine&border_radius=12" alt="GitHub Streak" />
+</div>
+---
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                🌾 THE HARVEST — FEATURED PROJECTS                -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+🌾  The Harvest — Featured Projects
+<div align="center">
+> _Seasons of building, shipped and blooming_
 <a href="https://github.com/semmozhiyan-dev/wanderlite-travel-and-tourism">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=semmozhiyan-dev&repo=wanderlite-travel-and-tourism&theme=tokyonight&border_radius=12&show_owner=true" alt="WanderLite" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=semmozhiyan-dev&repo=wanderlite-travel-and-tourism&theme=rose_pine&border_radius=12&show_owner=true" alt="WanderLite" />
 </a>
 &nbsp;
 <a href="https://github.com/semmozhiyan-dev/semmozhi-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=semmozhiyan-dev&repo=semmozhi-portfolio&theme=tokyonight&border_radius=12&show_owner=true" alt="Portfolio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=semmozhiyan-dev&repo=semmozhi-portfolio&theme=rose_pine&border_radius=12&show_owner=true" alt="Portfolio" />
 </a>
-
+<br/><br/>
+🗺️ WanderLite — Travel Platform	🌸 Portfolio — Digital Garden
+Smart travel planning & booking with real-time APIs	Personal portfolio — like a garden in bloom
+Like a trail through the forest — guides you A to B	Every project a flower grown through learning
+`JavaScript` · `APIs` · `Database Systems`	`HTML` · `CSS` · `JavaScript`
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)	![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+![Repo](https://img.shields.io/badge/Explore%20Repo-c8884a?style=for-the-badge&logo=github&logoColor=white)	![Repo](https://img.shields.io/badge/Explore%20Repo-c8884a?style=for-the-badge&logo=github&logoColor=white)
 </div>
-
-<br/>
-
-<div align="center">
-
-| 🌍 WanderLite Travel Platform | 💼 Portfolio Website |
-|:---|:---|
-| Smart travel planning & booking system with real-time APIs | Personal portfolio showcasing projects, skills & experience |
-| `JavaScript` `APIs` `Database Systems` | `HTML` `CSS` `JavaScript` |
-| ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square) |
-| [![Repo](https://img.shields.io/badge/View%20Repo-0891b2?style=for-the-badge&logo=github)](https://github.com/semmozhiyan-dev/wanderlite-travel-and-tourism) | [![Repo](https://img.shields.io/badge/View%20Repo-0891b2?style=for-the-badge&logo=github)](https://github.com/semmozhiyan-dev/semmozhi-portfolio) |
-
-</div>
-
 ---
-
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                    CERTIFICATIONS & ACHIEVEMENTS                  -->
+<!--               🪵 FIELD NOTES — DEVOPS LABS                       -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 🏅 &nbsp;Certifications & Achievements
-
+🪵  Field Notes — DevOps Practice & Labs
 <div align="center">
-
-| 🎓 Certification / Achievement | 🏢 Issuer | 📅 Status |
-|:---|:---|:---:|
-| 🐳 Docker Foundations | Docker / Self-paced | ✅ Completed |
-| ☸️ Kubernetes Fundamentals | CNCF / Self-paced | 🔄 In Progress |
-| 🏗️ Terraform Associate | HashiCorp | 🔄 In Progress |
-| 🐧 Linux System Administration | Red Hat / Self-paced | ✅ Completed |
-| ⚙️ GitHub Actions Workflow Automation | GitHub Learning Lab | ✅ Completed |
-| 🔐 DevSecOps Foundation | Self-paced Research | 🔄 In Progress |
-
+> _The lab is the meadow — where I experiment, fail, and bloom_
+🌿 Practice Area	Tools & Experiments	Growth Stage
+🔧 CI/CD Pipelines	GitHub Actions — automated build & deploy workflows	🌸 Bloomed
+🐳 Containerization	Docker, Docker Compose, multi-stage image builds	🌸 Bloomed
+☸️ Orchestration	Kubernetes: deployments, services, ingress & scaling	🌿 Budding
+📊 Observability	Prometheus metrics collection + Grafana dashboards	🌿 Budding
+🏗️ IaC	Terraform for reproducible cloud provisioning	🌿 Budding
+🔧 Config Mgmt	Ansible playbooks for server configuration	🌱 Sprouting
+🐧 Linux Internals	Shell scripting, sysadmin, process management	🌸 Bloomed
+🔐 Security	SAST scanning, secret detection, policy enforcement	🌱 Sprouting
 </div>
-
 ---
-
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      DEVOPS LABS                                 -->
+<!--            🏅 BARK MARKINGS — CERTIFICATIONS                     -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 🧪 &nbsp;DevOps Practice & Labs
-
+🏅  Bark Markings — Certifications & Achievements
 <div align="center">
-
-| Category | Tools & Technologies | Level |
-|:---|:---|:---:|
-| 🔧 **CI/CD Pipelines** | GitHub Actions, automated build & deploy workflows | Advanced |
-| 🐳 **Containerization** | Docker, Docker Compose, multi-stage builds | Advanced |
-| ☸️ **Orchestration** | Kubernetes deployments, services & ingress | Intermediate |
-| 📊 **Monitoring** | Prometheus metrics collection + Grafana dashboards | Intermediate |
-| 🏗️ **IaC** | Terraform for cloud infrastructure provisioning | Intermediate |
-| 🔧 **Config Mgmt** | Ansible for server configuration automation | Learning |
-| 🐧 **Linux** | Shell scripting, system administration, process management | Advanced |
-| 🔐 **Security** | SAST scanning, secret detection, policy enforcement | Learning |
-
+> _Every scar on the bark is a storm weathered, a season survived_
+🌸 Certification	🏢 Issuer	🌦️ Season
+🐳 Docker Foundations	Docker / Self-paced	🌸 Bloomed
+🐧 Linux System Administration	Red Hat / Self-paced	🌸 Bloomed
+⚙️ GitHub Actions Workflow Automation	GitHub Learning Lab	🌸 Bloomed
+☸️ Kubernetes Fundamentals	CNCF / Self-paced	🌿 Budding
+🏗️ Terraform Associate	HashiCorp	🌿 Budding
+🔐 DevSecOps Foundation	Self-paced Research	🌿 Budding
 </div>
-
 ---
-
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     CURRENTLY LEARNING                           -->
+<!--            🌤️  NEW BLOOMS — CURRENTLY LEARNING                   -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 🌱 &nbsp;Currently Learning
-
+🌤️  New Blooms — 2025 Learning Season
 <div align="center">
-
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                  2025 LEARNING ROADMAP                       ║
-╠══════════════════════════════════════════════════════════════╣
-║  ☸️  Kubernetes Networking & Service Mesh (Istio)   [▓▓▓▓░] ║
-║  🏗️  Infrastructure as Code — Terraform & Ansible   [▓▓▓▓░] ║
-║  🚀  Advanced Deployment Strategies (Blue/Green)    [▓▓▓░░] ║
-║  🐧  Advanced Linux Internals for DevOps            [▓▓▓▓░] ║
-║  🔐  DevSecOps — Security-first Pipeline Design     [▓▓▓░░] ║
-║  ☁️  Cloud Platforms (AWS / GCP fundamentals)       [▓▓░░░] ║
-╚══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║                🌸  2025  BLOOMING  SEASON  🌸                    ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║  ☸️  Kubernetes Networking & Service Mesh (Istio)   [🌸🌸🌸🌸🌿]  ║
+║  🏗️  Infrastructure as Code — Terraform & Ansible   [🌸🌸🌸🌸🌿]  ║
+║  🐧  Advanced Linux Internals for DevOps            [🌸🌸🌸🌸🌿]  ║
+║  🚀  Advanced Deployment Strategies (Blue/Green)    [🌸🌸🌸🌿🌿]  ║
+║  🔐  DevSecOps — Security-first Pipeline Design     [🌸🌸🌸🌿🌿]  ║
+║  ☁️  Cloud Platforms (AWS / GCP fundamentals)       [🌸🌸🌿🌿🌿]  ║
+║                                                                   ║
+║  🌿 = Budding  🌸 = Bloomed — Every petal a skill mastered       ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
-
 </div>
-
 ---
-
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                       CONNECT WITH ME                            -->
+<!--               🌻 FIND ME IN THE WILD — CONNECT                   -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
-
-## 🤝 &nbsp;Connect With Me
-
+🌻  Find Me in the Wild — Connect
 <div align="center">
   <a href="mailto:semmozhiyan40@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -297,36 +273,34 @@ Fun Fact   : I turn manual processes into
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-
 <br/>
-
 <div align="center">
-
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║   💼 Open to: DevOps Roles · Backend Roles · Internships      ║
-║   🤝 Available for: Collaboration · Open Source · Freelance   ║
-║   📬 Response time: Within 24 hours                           ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  🌸  The forest is always open — come explore with me           ║
+╠══════════════════════════════════════════════════════════════════╣
+║  💼  Open to  : DevOps Roles · Backend Roles · Internships      ║
+║  🤝  Ready for: Collaboration · Open Source · Freelance         ║
+║  🌸  In Bloom : Always learning, always planting new ideas      ║
+║  📬  Response : Within 24 hours — swift as the spring breeze    ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
-
-  <i>💬 Feel free to reach out — I'm always open to discussing DevOps, Backend Dev, or exciting projects!</i>
+🌸 "The best time to plant a tree was 20 years ago.<br/>
+The second best time is now — and the best time to write a pipeline was yesterday.<br/>
+Let's build something that blooms together." 🌿
 </div>
-
 ---
-
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                          FOOTER                                  -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8&height=140&section=footer&animation=twinkling" width="100%" />
 </div>
-
 <div align="center">
   <sub>
-    ⚡ Powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> &nbsp;•&nbsp;
+    🌸 In full bloom — automating the forest so it tends itself &nbsp;•&nbsp;
     🐍 Snake by <a href="https://github.com/Platane/snk">Platane/snk</a> &nbsp;•&nbsp;
-    ⏱ Auto-refreshed every hour via GitHub Actions
+    ⏱ Auto-refreshed every hour via GitHub Actions &nbsp;•&nbsp;
+    🌿 Growing daily
   </sub>
 </div>
